@@ -1,3 +1,13 @@
+# Netflix (a movie trailer application)
+Netflix is a movie trailer appliction. where the new movies tittle and description come according to new movies and we can watch the trailer or the relating videos in this application.
+
+# Features
+Movie trailor app
+
+# Api integration of TMDB(Movie Database)
+
+Designed similar to Netflix app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🚀 About Me
+I'm Britto Vincent, Passionate full stack developer...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brittovincent111.github.io/personal-portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/britto-vincent-547200218/)
